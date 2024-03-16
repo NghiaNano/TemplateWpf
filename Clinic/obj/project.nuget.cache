@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "BoYXdn7qgEm/3Fq13Ar/USTgbo6z7FnO+lZib06Sb0YhzO/xQTrqrrWgHnX4De06s0FGoiaBXqB24d8vmAdKig==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Nghia Nano\\Desktop\\MVVMSample\\Clinic\\Clinic\\Clinic.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Nghia Nano\\.nuget\\packages\\microsoft.toolkit.mvvm\\7.1.2\\microsoft.toolkit.mvvm.7.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
