@@ -18,7 +18,7 @@ namespace Clinic
 	{
 		public MainWindow()
 		{
-			InitializeComponent();
+			InitializeComponent(); 
 		}
 	}
 }
